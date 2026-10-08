@@ -1,2 +1,7 @@
 Python 3.12.7
 Flask 3.0.3
+Flask
+gunicorn
+pandas
+numpy
+scikit-learn
